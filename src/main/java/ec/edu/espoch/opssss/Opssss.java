@@ -12,6 +12,6 @@ public class Opssss {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Karen");
+        System.out.println("Karen tiene miedo");
     }
 }
